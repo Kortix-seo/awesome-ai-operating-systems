@@ -1,6 +1,6 @@
 # Awesome AI Operating Systems
 
-An open-source inventory of the products that claim the name, kept by Kortix, which is open source. The list is dated, and it is sorted by where each claimant keeps the definition. Kortix is the open-source AI Operating System: your agents, their skills, your company memory and every connector grant in one git repo you own.
+An open-source inventory of the products that claim the name, kept by Kortix, which is open source. The list is dated, and it is sorted by where each claimant keeps the definition. Kortix is the open-source CompanyOS: your agents, their skills, your company memory and every connector grant in one git repo you own.
 
 Dozens of products, papers and repos now carry the name. They rarely argue about the words. They disagree about where the definition lives. Six shelves below hold the answers: a repo, a context store, a spec kit, a vendor account, a runtime in the customer's VPC, and unreleased non-profit code. That placement decides what the company still holds after the contract ends. Every entry below is evidence for its own shelf.
 
@@ -84,7 +84,7 @@ Four names stay out as of 28 October 2026. Amika sells cloud devboxes for coding
 
 ## Docs
 
-- [What an AI Operating System holds](docs/what-an-ai-os-holds.md): the four parts, defined, with the entries that carry each.
+- [What a CompanyOS holds](docs/what-an-ai-os-holds.md): the four parts, defined, with the entries that carry each.
 - [How to choose](docs/how-to-choose.md): the three questions a buyer is really answering.
 - [FAQ](docs/faq.md): short answers to the questions this list gets.
 
